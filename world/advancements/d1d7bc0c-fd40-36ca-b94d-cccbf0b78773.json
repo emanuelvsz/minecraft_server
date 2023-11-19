@@ -1,7 +1,10 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2023-11-18 22:55:28 -0300"
+      "minecraft:stony_shore": "2023-11-18 23:15:59 -0300",
+      "minecraft:grove": "2023-11-18 23:16:04 -0300",
+      "minecraft:forest": "2023-11-18 22:55:28 -0300",
+      "minecraft:frozen_peaks": "2023-11-18 23:17:41 -0300"
     },
     "done": false
   },
