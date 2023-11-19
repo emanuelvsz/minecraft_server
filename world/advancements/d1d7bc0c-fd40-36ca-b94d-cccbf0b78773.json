@@ -1,7 +1,31 @@
 {
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-11-19 17:05:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-11-19 17:05:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-11-19 17:05:07 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2023-11-19 10:45:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-11-19 17:05:07 -0300"
     },
     "done": true
   },
@@ -11,18 +35,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-11-19 17:05:07 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2023-11-19 12:12:37 -0300"
     },
     "done": false
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-11-19 17:05:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-11-19 17:05:07 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2023-11-19 17:05:00 -0300",
       "minecraft:stony_shore": "2023-11-18 23:15:59 -0300",
       "minecraft:grove": "2023-11-18 23:16:04 -0300",
+      "minecraft:cold_ocean": "2023-11-19 17:03:59 -0300",
       "minecraft:forest": "2023-11-18 22:55:28 -0300",
-      "minecraft:frozen_peaks": "2023-11-18 23:17:41 -0300"
+      "minecraft:frozen_peaks": "2023-11-18 23:17:41 -0300",
+      "minecraft:plains": "2023-11-19 17:05:01 -0300"
     },
     "done": false
   },

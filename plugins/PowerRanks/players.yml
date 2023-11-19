@@ -11,17 +11,15 @@ de8ef610-0bd2-395c-94e3-6fcbbfb922ec:
   name: as_elsie
   nickname: ''
   ranks:
-  - name: Backend
+  - name: Linda
     tags: {}
   - name: Frontend
-    tags: {}
-  - name: Linda
     tags: {}
   - name: Member
     tags: {}
   permissions: []
   usertags: []
-  playtime: 22
+  playtime: 1283
 9367abe2-f34a-353e-8101-126b9d10e93a:
   name: gabiruti
   nickname: ''
@@ -39,4 +37,4 @@ d1d7bc0c-fd40-36ca-b94d-cccbf0b78773:
     tags: {}
   permissions: []
   usertags: []
-  playtime: 3667
+  playtime: 5105
