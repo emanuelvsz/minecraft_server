@@ -36,7 +36,7 @@ Frontend:
   buyDescription: ''
   namecolor: ''
   chatcolor: ''
-  default: true
+  default: false
 Ditter:
   permissions: []
   inheritances: []
@@ -88,4 +88,4 @@ Linda:
   buyDescription: ''
   namecolor: ''
   chatcolor: ''
-  default: true
+  default: false
