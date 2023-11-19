@@ -14,3 +14,9 @@ users:
     - Owner
     options:
       name: nemo
+  de8ef610-0bd2-395c-94e3-6fcbbfb922ec:
+    options:
+      name: wallrony
+      group: Member
+    group:
+    - Member

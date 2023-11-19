@@ -168,6 +168,7 @@ lang:
         success-executor: '&aRemoved the rank [rank] from [player]'
         failed-executor: '&cFailed to remove the rank [rank] from [player]'
         success-receiver: '&aThe rank [rank] has been revoked from you'
+        description: lang.en.commands.delrank.description
       checkrank:
         arguments: <player_name>
         description: Check someone's rank
@@ -199,6 +200,7 @@ lang:
         setother:
           success: '&a[target]''s nickname has been set to: [nickname]'
           failed: '&cFailed to set [target]''s nickname to: [nickname]'
+        description: lang.en.commands.nick.description
       haspermission:
         arguments: <player_name> <permission.node>
         description: Check if a player has a certain permission
