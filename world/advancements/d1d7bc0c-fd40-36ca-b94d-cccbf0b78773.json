@@ -1,4 +1,10 @@
 {
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-11-19 10:45:29 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:stony_shore": "2023-11-18 23:15:59 -0300",

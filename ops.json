@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "d1d7bc0c-fd40-36ca-b94d-cccbf0b78773",
+    "name": "nemo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
