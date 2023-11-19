@@ -179,3 +179,7 @@
 [17:11:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
 [17:11:44] [Server thread/INFO]: Done (6.530s)! For help, type "help"
 [17:11:44] [Thread-11/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
+[17:13:36] [Server thread/INFO]: [Not Secure] [Server] hi
+[17:22:41] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[17:22:53] [Server thread/INFO]: [Not Secure] [Server] helous
+[17:23:19] [Thread-2/INFO]: Stopping server

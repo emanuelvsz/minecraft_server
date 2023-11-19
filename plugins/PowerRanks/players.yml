@@ -11,9 +11,9 @@ de8ef610-0bd2-395c-94e3-6fcbbfb922ec:
   name: as_elsie
   nickname: ''
   ranks:
-  - name: Linda
-    tags: {}
   - name: Frontend
+    tags: {}
+  - name: Linda
     tags: {}
   - name: Member
     tags: {}

@@ -3,89 +3,89 @@ Moderator:
   inheritances: []
   weight: 50
   prefix: '[gradient=#9d1dff,#e22581]MODERATOR[/gradient]'
-  default: false
   suffix: ''
   buyableRanks: []
-  buyCommand: ''
-  namecolor: ''
-  buyDescription: ''
-  chatcolor: ''
   buyCost: 0.0
+  buyCommand: ''
+  buyDescription: ''
+  namecolor: ''
+  chatcolor: ''
+  default: false
 Owner:
   permissions: []
   inheritances: []
   weight: 100
   prefix: '[gradient=#ff00ff,#33ccff]OWNER[/gradient]'
-  default: false
   suffix: ''
   buyableRanks: []
-  buyCommand: ''
-  namecolor: ''
-  buyDescription: ''
-  chatcolor: ''
   buyCost: 0.0
+  buyCommand: ''
+  buyDescription: ''
+  namecolor: ''
+  chatcolor: ''
+  default: false
 Frontend:
   permissions: []
   inheritances: []
   weight: 0
   prefix: '[gradient=#127e00,#3eaf18]FRONTEND[/gradient]'
-  default: false
   suffix: ''
   buyableRanks: []
-  buyCommand: ''
-  namecolor: ''
-  buyDescription: ''
-  chatcolor: ''
   buyCost: 0.0
+  buyCommand: ''
+  buyDescription: ''
+  namecolor: ''
+  chatcolor: ''
+  default: true
 Ditter:
   permissions: []
   inheritances: []
   weight: 0
   prefix: '[gradient=#127e00,#3eaf18]DITTER[/gradient]'
-  default: false
   suffix: ''
   buyableRanks: []
-  buyCommand: ''
-  namecolor: ''
-  buyDescription: ''
-  chatcolor: ''
   buyCost: 0.0
+  buyCommand: ''
+  buyDescription: ''
+  namecolor: ''
+  chatcolor: ''
+  default: false
 Admin:
   permissions: []
   inheritances: []
   weight: 75
   prefix: '[gradient=#ffff00,#ef3300]ADMIN[/gradient]'
-  default: false
   suffix: ''
   buyableRanks: []
-  buyCommand: ''
-  namecolor: ''
-  buyDescription: ''
-  chatcolor: ''
   buyCost: 0.0
+  buyCommand: ''
+  buyDescription: ''
+  namecolor: ''
+  chatcolor: ''
+  default: false
 Member:
   permissions: []
   inheritances: []
   weight: 0
   prefix: '[gradient=#127e00,#3eaf18]MEMBER[/gradient]'
-  default: true
   suffix: ''
   buyableRanks: []
-  buyCommand: ''
-  namecolor: ''
-  buyDescription: ''
-  chatcolor: ''
   buyCost: 0.0
+  buyCommand: ''
+  buyDescription: ''
+  namecolor: ''
+  chatcolor: ''
+  default: true
 Linda:
   permissions: []
   inheritances: []
   weight: 0
   prefix: '[gradient=#ffcbdb,#ff007f]LINDA[/gradient]'
-  default: false
   suffix: ''
   buyableRanks: []
-  buyCommand: ''
-  namecolor: ''
-  buyDescription: ''
-  chatcolor: ''
   buyCost: 0.0
+  buyCommand: ''
+  buyDescription: ''
+  namecolor: ''
+  chatcolor: ''
+  default: true

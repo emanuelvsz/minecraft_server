@@ -2,5 +2,5 @@
 
 java -jar spigot-1.19.3.jar
 
-echo "Pressione Enter para fechar o servidor..."
+echo "Press Enter key for confirm..."
 read
