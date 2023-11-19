@@ -4,12 +4,12 @@ Moderator:
   weight: 50
   prefix: '[gradient=#9d1dff,#e22581]MODERATOR[/gradient]'
   suffix: ''
+  chatcolor: ''
+  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyCommand: ''
   buyDescription: ''
-  namecolor: ''
-  chatcolor: ''
+  buyCommand: ''
   default: false
 Owner:
   permissions: []
@@ -17,12 +17,12 @@ Owner:
   weight: 100
   prefix: '[gradient=#ff00ff,#33ccff]OWNER[/gradient]'
   suffix: ''
+  chatcolor: ''
+  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyCommand: ''
   buyDescription: ''
-  namecolor: ''
-  chatcolor: ''
+  buyCommand: ''
   default: false
 Frontend:
   permissions: []
@@ -30,12 +30,12 @@ Frontend:
   weight: 0
   prefix: '[gradient=#127e00,#3eaf18]FRONTEND[/gradient]'
   suffix: ''
+  chatcolor: ''
+  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyCommand: ''
   buyDescription: ''
-  namecolor: ''
-  chatcolor: ''
+  buyCommand: ''
   default: false
 Ditter:
   permissions: []
@@ -43,12 +43,12 @@ Ditter:
   weight: 0
   prefix: '[gradient=#127e00,#3eaf18]DITTER[/gradient]'
   suffix: ''
+  chatcolor: ''
+  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyCommand: ''
   buyDescription: ''
-  namecolor: ''
-  chatcolor: ''
+  buyCommand: ''
   default: false
 Admin:
   permissions: []
@@ -56,12 +56,12 @@ Admin:
   weight: 75
   prefix: '[gradient=#ffff00,#ef3300]ADMIN[/gradient]'
   suffix: ''
+  chatcolor: ''
+  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyCommand: ''
   buyDescription: ''
-  namecolor: ''
-  chatcolor: ''
+  buyCommand: ''
   default: false
 Member:
   permissions: []
@@ -69,12 +69,12 @@ Member:
   weight: 0
   prefix: '[gradient=#127e00,#3eaf18]MEMBER[/gradient]'
   suffix: ''
+  chatcolor: ''
+  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyCommand: ''
   buyDescription: ''
-  namecolor: ''
-  chatcolor: ''
+  buyCommand: ''
   default: true
 Linda:
   permissions: []
@@ -82,10 +82,10 @@ Linda:
   weight: 0
   prefix: '[gradient=#ffcbdb,#ff007f]LINDA[/gradient]'
   suffix: ''
+  chatcolor: ''
+  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyCommand: ''
   buyDescription: ''
-  namecolor: ''
-  chatcolor: ''
+  buyCommand: ''
   default: false

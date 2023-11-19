@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "js-yaml": "^4.1.0",
+    "mineflayer": "^4.14.0"
+  }
+}

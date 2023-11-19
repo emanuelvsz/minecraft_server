@@ -1,3 +1,21 @@
+61c361f2-ec20-31fd-b1a0-6b622206d2ca:
+  name: Tarsis
+  nickname: ''
+  ranks:
+  - name: Member
+    tags: {}
+  permissions: []
+  usertags: []
+  playtime: 0
+bb19ef2f-2f95-39a8-8bad-bda3ed373847:
+  name: Bot
+  nickname: ''
+  ranks:
+  - name: Member
+    tags: {}
+  permissions: []
+  usertags: []
+  playtime: 9
 de8ef610-0bd2-395c-94e3-6fcbbfb922ec:
   name: wallrony
   nickname: ''
@@ -7,19 +25,37 @@ de8ef610-0bd2-395c-94e3-6fcbbfb922ec:
   permissions: []
   usertags: []
   playtime: 757
-0e24e116-bdfe-31d4-9aa2-5c64a4127e7f:
-  name: as_elsie
+d24b4a85-1663-329b-9112-65da04010523:
+  name: TarsisA
   nickname: ''
   ranks:
-  - name: Frontend
-    tags: {}
-  - name: Linda
-    tags: {}
   - name: Member
     tags: {}
   permissions: []
   usertags: []
+  playtime: 323
+0e24e116-bdfe-31d4-9aa2-5c64a4127e7f:
+  name: as_elsie
+  nickname: ''
+  ranks:
+  - name: Member
+    tags: {}
+  - name: Frontend
+    tags: {}
+  - name: Linda
+    tags: {}
+  permissions: []
+  usertags: []
   playtime: 1283
+a064e3db-0563-3082-af61-fb6d95ebe7e0:
+  name: TarsisAI
+  nickname: ''
+  ranks:
+  - name: Member
+    tags: {}
+  permissions: []
+  usertags: []
+  playtime: 1081
 9367abe2-f34a-353e-8101-126b9d10e93a:
   name: gabiruti
   nickname: ''

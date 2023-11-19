@@ -1,0 +1,16 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:grove": "2023-11-19 18:30:28 -0300",
+      "minecraft:forest": "2023-11-19 17:57:51 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-11-19 18:29:27 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}
