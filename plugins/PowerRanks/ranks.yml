@@ -3,12 +3,12 @@ Moderator:
   inheritances: []
   weight: 50
   prefix: '[gradient=#9d1dff,#e22581]MODERATOR[/gradient]'
-  suffix: ''
-  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyCommand: ''
+  suffix: ''
   chatcolor: ''
+  namecolor: ''
   buyDescription: ''
   default: false
 Backend:
@@ -16,12 +16,12 @@ Backend:
   inheritances: []
   weight: 0
   prefix: '[gradient=#127e00,#3eaf18]MEMBER[/gradient]'
-  suffix: ''
-  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyCommand: ''
+  suffix: ''
   chatcolor: ''
+  namecolor: ''
   buyDescription: ''
   default: true
 Owner:
@@ -29,12 +29,12 @@ Owner:
   inheritances: []
   weight: 100
   prefix: '[gradient=#ff00ff,#33ccff]OWNER[/gradient]'
-  suffix: ''
-  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyCommand: ''
+  suffix: ''
   chatcolor: ''
+  namecolor: ''
   buyDescription: ''
   default: false
 Frontend:
@@ -42,12 +42,12 @@ Frontend:
   inheritances: []
   weight: 0
   prefix: '[gradient=#127e00,#3eaf18]MEMBER[/gradient]'
-  suffix: ''
-  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyCommand: ''
+  suffix: ''
   chatcolor: ''
+  namecolor: ''
   buyDescription: ''
   default: true
 Ditter:
@@ -55,12 +55,12 @@ Ditter:
   inheritances: []
   weight: 0
   prefix: '[gradient=#127e00,#3eaf18]DITTER[/gradient]'
-  suffix: ''
-  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyCommand: ''
+  suffix: ''
   chatcolor: ''
+  namecolor: ''
   buyDescription: ''
   default: false
 Admin:
@@ -68,12 +68,12 @@ Admin:
   inheritances: []
   weight: 75
   prefix: '[gradient=#ffff00,#ef3300]ADMIN[/gradient]'
-  suffix: ''
-  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyCommand: ''
+  suffix: ''
   chatcolor: ''
+  namecolor: ''
   buyDescription: ''
   default: false
 Member:
@@ -81,11 +81,11 @@ Member:
   inheritances: []
   weight: 0
   prefix: '[gradient=#127e00,#3eaf18]MEMBER[/gradient]'
-  suffix: ''
-  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyCommand: ''
+  suffix: ''
   chatcolor: ''
+  namecolor: ''
   buyDescription: ''
   default: true
