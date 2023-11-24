@@ -5,7 +5,7 @@ Esse repositório tem como intuito, armazenar um servidor TCP para Minecraft que
 ### Como usar o servidor?
 
 * Copie o link do servidor: ``0.tcp.sa.ngrok.io:19608`` (Esse link provavelmente vai estar quebrado, por enquanto apenas IP's elásticos estão sendo utilizados)
-* Baixe a verão ```1.19.3``` do Minecraft
+* Baixe a versão ```1.19.3``` do Minecraft
 * Entre no jogo e vá para a aba de Multijogo
 * Adicione o servidor com o nome que vc quiser, porém, o IP ```deve``` ser o que foi fornecido acima
 * Caso tudo de certo, será mostrado isso:
